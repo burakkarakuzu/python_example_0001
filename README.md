@@ -5,4 +5,6 @@
  <p>We create tables like Excel tables with DataFrame.</p>
  <p>We create our model with 
   <a href="https://www.tensorflow.org/">TensorFlow</a>.</p>
+ <p>After creating our model, we move on to the estimation phase.</p>
+ <p>The most important point here is that the loss values ​​are close to each other (but not equal).</p>
  </body>
